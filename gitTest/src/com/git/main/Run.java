@@ -6,7 +6,7 @@ public class Run {
 		// TODO Auto-generated method stub
 		System.out.println("나의 첫 git실행");
 		int age=19;
-		String name="오늘은 안졸려";
+		String address="갑자기 졸리네";
 				
 
 	}
